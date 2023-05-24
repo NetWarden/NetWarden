@@ -1,4 +1,3 @@
-![NetWar](https://i.gifer.com/1BZR.mp4)
 <h1 align="center">Hi 👋, I'm Erenay Dalkıran</h1>
 <h3 align="center">A passionate cybersecurity worker</h3>
 
