@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erenay Dalkıran</h1>
 <h3 align="center">A passionate cybersecurity worker</h3>
 
-[NetWar](https://i.gifer.com/1BZR.mp4)
+![NetWar](https://i.gifer.com/1BZR.mp4)
 - 👨‍💻 All of my projects are available at [https://github.com/NetWarden]
 
 - 📫 How to reach me **erenaydalkiran@gmail.com**
