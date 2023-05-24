@@ -2,7 +2,7 @@
 <h3 align="center">A passionate cybersecurity worker</h3>
 
 <img align="middle" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA5ODYwNjgxNTk4NDZiY2YxOTU2MmI4MzhiZjE2MDZjYTZmNTQ4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o72FaZgzzFmqoNfBm/giphy.gif" >
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/erenay-dalk%C4%B1ran-8a0a4222b/]([https://www.linkedin.com/in/erenay-dalk%C4%B1ran-8a0a4222b/](https://github.com/NetWarden))
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/erenay-dalk%C4%B1ran-8a0a4222b/](https://github.com/NetWarden)
 
 - 📫 How to reach me **erenaydalkiran@gmail.com**
 
